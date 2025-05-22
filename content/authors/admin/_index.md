@@ -195,7 +195,7 @@ languages:
 awards:
   - title: Outstanding Presentation Award
     url: 
-    date: '2022-08'
+    date: '2022-08-23'
     awarder: 2022 International Summit on Marine Biomedicine and 11th Shanghai Academic Conference on Marine Pharmaceuticals
     icon: 
     summary: |
