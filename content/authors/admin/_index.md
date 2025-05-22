@@ -74,15 +74,15 @@ education:
       - Molecular Biology
   
   work:
-  - position: 
-    company_name: 
-    company_url: ''
-    company_logo: ''
-    date_start: 
-    date_end: ''
-    summary: |2-
-      Responsibilities include:
-      -      
+    - position: 
+     company_name: 
+      company_url: ''
+      company_logo: ''
+      date_start: 
+      date_end: ''
+      summary: |2-
+        Responsibilities include:
+        -      
   
 
 # Skills
