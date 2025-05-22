@@ -1,13 +1,13 @@
 ---
 # Display name
-title: 吳健雄
+title: 肖逸林
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: Xiao Yi Lin
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Yi Lin
+last_name: Xiao
 
 # Status emoji
 status:
@@ -20,167 +20,198 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Doctor of Philosophy (Biology) (Just Graduated)
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: Shanghai Jiao Tong University
+    url: https://en.sjtu.edu.cn/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:xiaoyilininwork@outlook.com'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/
   - icon: brands/instagram
     url: https://www.instagram.com/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/YXiaofromAlgae/YilinXiao.github.io
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/yilin-xiao-5428a3296/
   - icon: academicons/google-scholar
     url: https://scholar.google.com/
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0003-3052-6567
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Genomic and Transcriptomic Analysis
+  - Pathgen Analysis
+  - Plants and Botanic
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Doctor of Philosophy (Biology)
+    institution: Shanghai Jiao Tong University
+    date_start: 2015-09
+    date_end: 2024-12
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on _Unique high-temperature tolerance mechanisms of zoochlorellae Symbiochlorum hainanensis derived from scleractinian coral Porites lutea_. Supervised by [Prof Zhiyong Li]. Contributions being published in mBio, Coral Reefs, Environmental Microbiome, IJSEM and other journals.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: 'https://journals.asm.org/doi/10.1128/mbio.02780-23'
+  - area: Bachelor of Science (Biotechnology)
+    institution: Ocean University of China
+    date_start: 2011-08
+    date_end: 2015-06
     summary: |
-      GPA: 3.8/4.0
+      GPA: 2.67/3.3
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+      - Botany
+      - Microbiology
+      - Molecular Biology
+  
+  work:
+  - position: 
+    company_name: 
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      -      
+  
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Experiments
     items:
-      - name: Python
+      - name: Algae and bacteria culture
+        description: ''
+        percent: 95
+        icon: circle-stack
+      - name: coral sampling and culture
+        description: ''
+        percent: 45
+        icon: circle-stack
+      - name: microorganism co-cultivation setup
+        description: ''
+        percent: 60
+        icon: circle-stack
+      - name: morphological observation
+        description: ''
+        percent: 75
+        icon: circle-stack 
+      - name: DNA/RNA extraction and sequencing
+        description: ''
+        percent: 90
+        icon: circle-stack 
+      - name: enzyme activity determination
+        description: ''
+        percent: 75
+        icon: circle-stack 
+      - name: pigments analysis
         description: ''
         percent: 80
-        icon: code-bracket
-      - name: Data Science
+        icon: circle-stack  
+  - name: Instruments
+    items:
+      - name: HPLC (DAD/FLD)
         description: ''
-        percent: 100
-        icon: chart-bar
-      - name: SQL
+        percent: 80
+        icon: circle-stack
+      - name: qPCR
+        description: ''
+        percent: 90
+        icon: circle-stack
+      - name: ICP-MS
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
+      - name: microplate reader
+        description: ''
+        percent: 85
+        icon: circle-stack  
+      - name: TEM
         description: ''
         percent: 60
-        icon: person-simple-walk
-      - name: Cats
+        icon: circle-stack 
+  - names: Bioinformation
+   items:
+      - name: R programming
+        description: ''
+        percent: 75
+        icon: circle-stack
+      - name: Transcriptome analysis
         description: ''
         percent: 100
-        icon: cat
-      - name: Photography
+        icon: circle-stack
+      - name: Genome analysis
+        description: ''
+        percent: 70
+        icon: circle-stack
+      - name: Phylogenetic analysis
+        description: ''
+        percent: 75
+        icon: circle-stack
+  - names: Softwares
+   items:
+      - name: GraphPad Prism 5
         description: ''
         percent: 80
-        icon: camera
-
+        icon: circle-stack
+      - name: Snapgene
+        description: ''
+        percent: 80
+        icon: circle-stack
+      - name: MEGA X
+        description: ''
+        percent: 90
+        icon: circle-stack
+      - name: Mr Bayes
+        description: ''
+        percent: 90
+        icon: circle-stack
+      - name: Primer Premier 5
+        description: ''
+        percent: 75
+        icon: circle-stack                 
 languages:
-  - name: English
-    percent: 100
   - name: Chinese
+    percent: 100
+  - name: English
     percent: 75
-  - name: Portuguese
-    percent: 25
+  - name: Cantonese
+    percent: 10
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Outstanding Presentation Award
+    url: 
+    date: '2022-08'
+    awarder: 2022 International Summit on Marine Biomedicine and 11th Shanghai Academic Conference on Marine Pharmaceuticals
+    icon: 
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      An award for outstanding presentation in the 11th Shanghai Academic Conference on Marine Pharmaceuticals. This presentation is all about the Unique high-temperature tolerance mechanisms of zoochlorellae Symbiochlorum hainanensis. For details, please look for my doctoral thesis mentioned above.
+
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+A Biology Ph.D. I have been working in Microbiology, Bioimformatics, Molecular Biology, Biochemistry and Phycology for ten years.
+A "all-rounder". A laboratory worker, a junior Bioinformatician, and a junior field worker. Know a bit about everything in research because of my "colorful and diverse" scientific research experience.
+
+HPLC (DAD and FLD), microplate reader, TEM, ICP-MS, RT-qPCR, Transcriptome analysis and Genome sequencing has been used for my Ph.D research.
+
+Looking for job:
+A well organised lab or group;
+Biology, Botany, Phycology, Microbiology, Fish or Health;
+Transcriptome, Genome, and combined with lab experiments;
+aboard (because I have never been aboard).
