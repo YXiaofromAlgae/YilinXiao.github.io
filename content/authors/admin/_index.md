@@ -140,8 +140,8 @@ skills:
         description: ''
         percent: 60
         icon: circle-stack 
-  - names: Bioinformation
-   items:
+  - name: Bioinformation
+    items:
       - name: R programming
         description: ''
         percent: 75
@@ -159,7 +159,7 @@ skills:
         percent: 75
         icon: circle-stack
   - names: Softwares
-   items:
+    items:
       - name: GraphPad Prism 5
         description: ''
         percent: 80
