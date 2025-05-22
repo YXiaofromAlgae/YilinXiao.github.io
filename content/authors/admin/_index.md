@@ -72,8 +72,7 @@ education:
       - Botany
       - Microbiology
       - Molecular Biology
-  
-  work:
+    work:
     - position: 
      company_name: 
       company_url: ''
@@ -83,7 +82,7 @@ education:
       summary: |2-
         Responsibilities include:
         -      
-  
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
