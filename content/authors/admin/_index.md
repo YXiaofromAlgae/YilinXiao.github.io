@@ -54,8 +54,8 @@ interests:
 education:
   - area: Doctor of Philosophy (Biology)
     institution: Shanghai Jiao Tong University
-    date_start: 2015-09
-    date_end: 2024-12
+    date_start: 2015-09-01
+    date_end: 2024-12-20
     summary: |
       Thesis on _Unique high-temperature tolerance mechanisms of zoochlorellae Symbiochlorum hainanensis derived from scleractinian coral Porites lutea_. Supervised by [Prof Zhiyong Li]. Contributions being published in mBio, Coral Reefs, Environmental Microbiome, IJSEM and other journals.
     button:
@@ -63,8 +63,8 @@ education:
       url: 'https://journals.asm.org/doi/10.1128/mbio.02780-23'
   - area: Bachelor of Science (Biotechnology)
     institution: Ocean University of China
-    date_start: 2011-08
-    date_end: 2015-06
+    date_start: 2011-08-20
+    date_end: 2015-06-24
     summary: |
       GPA: 2.67/3.3
 
