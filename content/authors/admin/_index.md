@@ -72,7 +72,7 @@ education:
       - Botany
       - Microbiology
       - Molecular Biology
-    work:
+work:
     - position: 
      company_name: 
       company_url: ''
